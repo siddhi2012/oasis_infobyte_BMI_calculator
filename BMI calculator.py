@@ -26,7 +26,7 @@ def main():
 main()
 while True:
     cont = input("Do you want to another Measurement? (yes/no): ")
-    if cont=="ÿes":
+    if cont=="yes":
         main()
     else:
         print("Thank You for using")
